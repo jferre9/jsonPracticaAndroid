@@ -1,0 +1,32 @@
+{"personatges":[
+	{
+	"nom": "Rexxar",
+	"rasa": 5,
+	"sexe": 0,
+	"ofici": 5,
+	"str": 40,
+	"dex": 90,
+	"con": 80,
+	"int": 20,
+	"wis": 30,
+	"cha": 60,
+	"descripcio": "Descripcio Rexxar",
+	"id": 1,
+	"imatge": "rexxar.png"
+	},
+	{
+	"nom": "Baine",
+	"rasa": 8,
+	"sexe": 0,
+	"ofici": 0,
+	"str": 80,
+	"dex": 30,
+	"con": 100,
+	"int": 20,
+	"wis": 30,
+	"cha": 50,
+	"descripcio": "Descripcio Baine",
+	"id": 2,
+	"imatge": "baine.png"
+	}
+]}
