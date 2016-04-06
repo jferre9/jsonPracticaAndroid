@@ -28,5 +28,20 @@
 	"descripcio": "Descripcio Baine",
 	"id": 2,
 	"imatge": "baine.png"
+	},
+	{
+	"nom": "Uther",
+	"rasa": 0,
+	"sexe": 0,
+	"ofici": 3,
+	"str": 90,
+	"dex": 50,
+	"con": 70,
+	"int": 30,
+	"wis": 20,
+	"cha": 40,
+	"descripcio": "Descripcio Uther",
+	"id": 3,
+	"imatge": "uther.png"
 	}
 ]}
